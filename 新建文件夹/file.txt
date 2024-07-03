@@ -1,3 +1,2 @@
-hello world
-
-this is my file.
+DOMAIN-SUFFIX,chatgpt.com,Proxy
+DOMAIN-SUFFIX,openai.com,Proxy
